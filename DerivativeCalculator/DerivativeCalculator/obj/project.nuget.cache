@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "5bqmfh9hsBBuLcSm4BUGvyTUsip9Exj0qmxe/9CPIL9/X6BCRLK7IlMtBtj7ig/4VvjtYtGfybwiv6cVW0yb7g==",
+  "success": true,
+  "projectFilePath": "X:\\repositories\\DerivativeCalculator\\DerivativeCalculator\\DerivativeCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cosmi\\.nuget\\packages\\acr.userdialogs\\7.2.0.564\\acr.userdialogs.7.2.0.564.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\angourimath\\0.0.0-master-1655993650-43fbfb2\\angourimath.0.0.0-master-1655993650-43fbfb2.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\fluentemail.smtp\\3.0.2\\fluentemail.smtp.3.0.2.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\generictensor\\1.0.4\\generictensor.1.0.4.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\honksharp\\1.0.3\\honksharp.1.0.3.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\indexrange\\1.0.0\\indexrange.1.0.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\petero.numbers\\1.8.0\\petero.numbers.1.8.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}

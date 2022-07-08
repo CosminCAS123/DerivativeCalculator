@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQMRtuqYDHBYsjr9gQ61HpBtZ7zdZaBEBAo90oFTReaoJKIaCjQ+/YopjTKngl9qp0f/F39veASZvRKJaW/UTQ==",
+  "success": true,
+  "projectFilePath": "X:\\repositories\\DerivativeCalculator\\DerivativeCalculator.iOS\\DerivativeCalculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cosmi\\.nuget\\packages\\acr.userdialogs\\7.2.0.564\\acr.userdialogs.7.2.0.564.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\angourimath\\0.0.0-master-1655993650-43fbfb2\\angourimath.0.0.0-master-1655993650-43fbfb2.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\antlr4.runtime.standard\\4.9.2\\antlr4.runtime.standard.4.9.2.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\btprogresshud\\1.3.5\\btprogresshud.1.3.5.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\fluentemail.smtp\\3.0.2\\fluentemail.smtp.3.0.2.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\generictensor\\1.0.4\\generictensor.1.0.4.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\honksharp\\1.0.3\\honksharp.1.0.3.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\petero.numbers\\1.8.0\\petero.numbers.1.8.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\cosmi\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}
